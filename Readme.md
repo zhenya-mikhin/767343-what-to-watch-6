@@ -1,7 +1,7 @@
 # Личный проект «Что посмотреть» [![Build status][travis-image]][travis-url]
 
 * Студент: [Евгений Михин](https://up.htmlacademy.ru/react/6/user/767343).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Булах](https://htmlacademy.ru/profile/id1213123).
 
 ---
 
